@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **getting my 1st role in data analytics / data science**
 
-- 💬 Ask me about **SQL, Python and all things Home Automation**
+- 💬 Ask me about **SQL, Python, Lean Management, Six Sigma and all things Home Automation**
 
 - 📫 You can ping me at **r.vakeel.22@gmail.com**
 
@@ -28,11 +28,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="pandas" width="60" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Ftableau-full-logo&psig=AOvVaw1ozDzaT1OpdqBH3TSE_D3K&ust=1695895730192000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPiS3YvGyoEDFQAAAAAdAAAAABAD" alt="tableau" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="R" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
